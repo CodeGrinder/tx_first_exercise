@@ -1,0 +1,4 @@
+Prueba de Transifex
+Bienvenido a Transifex
+Buenos días Carlos Olvera
+Muchas gracias
